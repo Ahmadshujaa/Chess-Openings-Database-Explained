@@ -4,9 +4,8 @@
 [![Data](https://img.shields.io/badge/Openings-4,000+-blue?style=for-the-badge)](https://atlaschess.me/explore)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-![The Atlas Chess Banner](banner.png)
-
 ## 🌐 Experience the Interactive Version at [atlaschess.me](https://atlaschess.me)
+
 
 **The Atlas** is the world's most comprehensive chess opening explorer designed for grandmasters and beginners alike. Unlike traditional databases that only show win rates and percentages, **The Atlas explains the strategic purpose behind every single move.**
 
